@@ -38,8 +38,9 @@
     },
     "viewerContent": {
         "modelsLoaded": [
-            "structure",
-            "architectural"
+            "plumbing",
+            "fireAlarms",
+            "mechanical"
         ]
     },
     "viewerState": {
